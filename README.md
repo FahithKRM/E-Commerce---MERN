@@ -75,7 +75,7 @@ Ensure you have the following installed:
    ```
 
 ## Usage  
-- Access the website on `http://localhost:3000`.  
+- Access the website on `http://localhost:5000`.  
 - Admins can log in to the admin panel to manage products and orders.  
 
 ## Skills Demonstrated  
